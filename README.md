@@ -1,1 +1,1 @@
-Placeholder for bitway release asssets, see [source](https://github.com/bit-blik/bitblik)
+Placeholder for veksli release assets, see [source](https://github.com/bit-blik/bitblik)
